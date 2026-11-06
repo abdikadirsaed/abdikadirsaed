@@ -37,7 +37,3 @@ I believe in continuous learning, practical experience, and becoming better with
 ### 🤝 Let's Connect
 
 I'm always interested in learning, sharing ideas, and connecting with other developers.
-
-**Thanks for visiting my profile!**
-
-⭐ *Building my future, one line of code at a time.*
