@@ -33,13 +33,6 @@ I believe in continuous learning, practical experience, and becoming better with
 - Visual Studio Code
 - MySQL / SQLite
 
-### 🎯 My Goals
-
-- Become a skilled Full-Stack Developer.
-- Build useful, scalable, and meaningful applications.
-- Contribute to open-source projects.
-- Collaborate with other developers.
-- Keep learning and growing in software engineering.
 
 ### 🤝 Let's Connect
 
